@@ -1,4 +1,6 @@
 # Gaussian elimination method for solving system of linear equations
+### Not Tested
+
 ### Sample input/output:
 
 Enter the number of equations:
