@@ -3,6 +3,7 @@
 
 Enter the number of equations:
 4
+
 Enter the coefficients [A1.x1+A2.x2+...+An.xn=C]:
 2 -1 5 1 -3
 3 2 2 -6 -32
